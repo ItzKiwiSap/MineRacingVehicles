@@ -1,0 +1,11 @@
+rims:
+  Default:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: SPIDER_EYE
+      damage: 2
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        Unbreakable: true
+    price: 100.0

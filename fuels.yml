@@ -1,0 +1,11 @@
+fuels:
+  Gasoline:
+    item:
+      ==: org.bukkit.inventory.ItemStack
+      type: LAVA_BUCKET
+      meta:
+        ==: ItemMeta
+        meta-type: UNSPECIFIC
+        Unbreakable: true
+    price: 10.0
+    fillAmount: 0.5 

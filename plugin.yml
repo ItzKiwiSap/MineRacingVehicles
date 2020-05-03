@@ -1,0 +1,9 @@
+name: MineRacingVehicles
+version: 1.0.0
+author: Itz_KiwiSap_
+main: nl.itz_kiwisap_.dn.mineracing.vehicles.Main
+description: The vehicles plugin for the MineRacing gamemode of DairoNetwork
+
+commands:
+  vehicle:
+    description: Spawn a vehicle or reload the plugin.
